@@ -8,6 +8,7 @@ The Mandelbrot set computation is fully parallelizable, as we check all the poss
  <img src="https://github.com/Ali-Ouahhabi/MandelbortSet/blob/master/MandelEx2threads.PNG"   align="middle" width="300" height="300" />
  <p align="center">threads computation area</p> 
 </p>
+
 ## The Program commands
 [Left click drag] zoom into the selected area
 [Shift + left click drag] move to the specified offset
