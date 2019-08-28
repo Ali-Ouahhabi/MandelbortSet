@@ -10,16 +10,15 @@ The Mandelbrot set computation is fully parallelizable, as we check all the poss
 </p>
 
 ## The Program commands
-**[Left click drag]** zoom into the selected area
-**[Shift + left click drag]** move to the specified offset
-**[Escape]** reinitialization
-**[I]** zoom in
-**[O]** zoom out
-**[T]** change number of threads (decrement with shift key)
-**[C]** change the number of iterations (decrement with shift key)
-**[P]** change active palette (decrement with shift key)
-**[A]** activate 5-point antialiasing of the image
-**[S]** smooth the transitions between iteration colors
+
+| Command | Description | Command | Description |
+| --- | --- | --- | --- |
+|**Left click drag**| zoom into the selected area| **T**| change number of threads (decrement with shift key)|
+|**Shift + left click drag**| move to the specified offset|**C**| change the number of iterations (decrement with shift key)|
+|**Escape**| reinitialization|**P**| change active palette (decrement with shift key)|
+|**I**| zoom in|**A**| activate 5-point antialiasing of the image|
+|**O**| zoom out|**S**| smooth the transitions between iteration colors|
+
 <p align="center">
  <img src="https://github.com/Ali-Ouahhabi/MandelbortSet/blob/master/MandelEx.PNG"   align="middle"  />
 
