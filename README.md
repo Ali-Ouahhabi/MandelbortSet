@@ -18,7 +18,7 @@ The Mandelbrot set computation is fully parallelizable, as we check all the poss
 |**Escape**| reinitialization|**P**| change active palette (decrement with shift key)|
 |**I**| zoom in|**A**| activate 5-point antialiasing of the image|
 |**O**| zoom out|**S**| smooth the transitions between iteration colors|
-
+|**T**| to decrement the number of threads|**Y**| to increment the number of threads| 
 <p align="center">
  <img src="https://github.com/Ali-Ouahhabi/MandelbortSet/blob/master/MandelEx.PNG"   align="middle"  />
 
